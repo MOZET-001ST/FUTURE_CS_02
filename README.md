@@ -8,14 +8,6 @@ MXToolbox: Blacklist and header checks.
 VirusTotal: Malicious URL scanning. 
 WHOIS: Domain registration checks. 
 
-Repository Contents
-├── Report/
-│   └── Phishing Detection & Awareness... (Your PDF)
-├── Sample/             
-│   ├── (Your raw .txt samples)
-└── Screenshots/
-    └── (Your analysis screenshots)
-
 References
 Microsoft Threat Intelligence,
 Q1 2026 Email Threat Landscape 
